@@ -1,9 +1,9 @@
 {
-  "welcome-to-AutoGPT-Next-Web": "欢迎使用 AutoGPT-Next-Web",
-  "usage": "让您配置和部署自主AI代理程序。命名您的定制人工智能，并让它追求任何您能想象的目标。它将尝试通过思考要完成的任务、执行它们并从结果中学习来达成目标。",
-  "working-on": "该平台目前处于测试版阶段，我们正在努力进行以下方面的工作：",
-  "long-term-memory": "长期记忆",
-  "web-browsing": "网络浏览",
-  "interaction-with-websites-and-people": "与网站和人的互动",
-  "follow-our-footsteps": "请跟随我们的脚步："
+  "welcome-to-AutoGPT-Next-Web": "歡迎使用 AutoGPT-Next-Web",
+  "usage": "讓您配置和部署自主AI代理程式。命名您的定製人工智慧，並讓它追求任何您能想像的目標。它將嘗試通過思考要完成的任務、執行它們並從結果中學習來達成目標。",
+  "working-on": "該平臺目前處於測試版階段，我們正在努力進行以下方面的工作：",
+  "long-term-memory": "長期記憶",
+  "web-browsing": "網路瀏覽",
+  "interaction-with-websites-and-people": "與網站和人的互動",
+  "follow-our-footsteps": "請跟隨我們的腳步："
 }
